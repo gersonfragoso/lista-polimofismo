@@ -1,6 +1,6 @@
-package org.example.Exercicio5.model;
+package org.example.Exercicio5_Exercicio11.model;
 
-import org.example.Exercicio5.comissao.interfaces.Comissao;
+import org.example.Exercicio5_Exercicio11.comissao.interfaces.Comissao;
 
 public class FuncionarioMedio extends FuncionarioBasico{
 

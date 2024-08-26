@@ -1,7 +1,6 @@
-package org.example.Exercicio5;
+package org.example.Exercicio5_Exercicio11;
 
-import org.example.Exercicio1_Exercicio4.abstracts.Animal;
-import org.example.Exercicio5.empresa.Empresa;
+import org.example.Exercicio5_Exercicio11.empresa.Empresa;
 
 
 public class Main {

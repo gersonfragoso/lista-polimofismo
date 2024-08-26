@@ -1,6 +1,6 @@
-package org.example.Exercicio5.comissao.model;
+package org.example.Exercicio5_Exercicio11.comissao.model;
 
-import org.example.Exercicio5.comissao.interfaces.Comissao;
+import org.example.Exercicio5_Exercicio11.comissao.interfaces.Comissao;
 
 public class ComissaoVendedor implements Comissao {
     @Override

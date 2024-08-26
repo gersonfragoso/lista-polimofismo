@@ -1,16 +1,13 @@
-package org.example.Exercicio5.empresa;
+package org.example.Exercicio5_Exercicio11.empresa;
 
-import org.example.Exercicio5.comissao.interfaces.Comissao;
-import org.example.Exercicio5.comissao.model.ComissaoGerente;
-import org.example.Exercicio5.comissao.model.ComissaoSupervisor;
-import org.example.Exercicio5.comissao.model.ComissaoVendedor;
-import org.example.Exercicio5.model.Funcionario;
-import org.example.Exercicio5.model.FuncionarioBasico;
-import org.example.Exercicio5.model.FuncionarioGraduado;
-import org.example.Exercicio5.model.FuncionarioMedio;
-
-import java.util.ArrayList;
-import java.util.List;
+import org.example.Exercicio5_Exercicio11.comissao.interfaces.Comissao;
+import org.example.Exercicio5_Exercicio11.comissao.model.ComissaoGerente;
+import org.example.Exercicio5_Exercicio11.comissao.model.ComissaoSupervisor;
+import org.example.Exercicio5_Exercicio11.comissao.model.ComissaoVendedor;
+import org.example.Exercicio5_Exercicio11.model.Funcionario;
+import org.example.Exercicio5_Exercicio11.model.FuncionarioBasico;
+import org.example.Exercicio5_Exercicio11.model.FuncionarioGraduado;
+import org.example.Exercicio5_Exercicio11.model.FuncionarioMedio;
 
 public class Empresa {
     public void TestarEmpresa(){
