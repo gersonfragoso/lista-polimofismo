@@ -1,6 +1,6 @@
 # Atividade de Polimorfismo em Java
 
-Este projeto é dividido em dois pacotes principais, cada um abordando diferentes aspectos dos exercícios de polimorfismo. Abaixo está uma explicação para entender melhor sobre a estrutura do projeto.
+Este projeto é dividido em dois pacotes principais, cada um abordando uma parte dos exercicios passados. Abaixo está uma explicação para entender melhor sobre a estrutura do projeto.
 
 ## Estrutura do Projeto
 
