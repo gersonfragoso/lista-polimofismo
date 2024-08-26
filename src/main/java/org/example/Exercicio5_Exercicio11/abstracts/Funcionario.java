@@ -1,8 +1,8 @@
-package org.example.Exercicio5_Exercicio11.model;
+package org.example.Exercicio5_Exercicio11.abstracts;
 
 import org.example.Exercicio5_Exercicio11.comissao.interfaces.Comissao;
 
-public class Funcionario {
+public abstract class Funcionario {
     private String nome;
     private String codigoFuncional;
     private double salarioBase = 1000.0;

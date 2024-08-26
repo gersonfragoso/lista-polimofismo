@@ -1,8 +1,9 @@
 package org.example.Exercicio5_Exercicio11.model;
 
+import org.example.Exercicio5_Exercicio11.abstracts.Funcionario;
 import org.example.Exercicio5_Exercicio11.comissao.interfaces.Comissao;
 
-public class FuncionarioBasico extends Funcionario{
+public class FuncionarioBasico extends Funcionario {
     private String ensinoBasico;
     public FuncionarioBasico(String nome, String codigoFuncional, String ensinoBasico, Comissao comissao) {
         super(nome, codigoFuncional, comissao);
